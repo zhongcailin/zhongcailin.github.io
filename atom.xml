@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-22T06:18:09.810Z</updated>
+  <updated>2020-12-22T11:39:31.126Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>从零开始</title>
-    <link href="http://example.com/2020/12/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B/"/>
-    <id>http://example.com/2020/12/22/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B/</id>
-    <published>2020-12-22T06:15:24.000Z</published>
-    <updated>2020-12-22T06:18:09.810Z</updated>
+    <title>一切的起点</title>
+    <link href="http://example.com/2020/12/22/%E4%B8%80%E5%88%87%E7%9A%84%E8%B5%B7%E7%82%B9/"/>
+    <id>http://example.com/2020/12/22/%E4%B8%80%E5%88%87%E7%9A%84%E8%B5%B7%E7%82%B9/</id>
+    <published>2020-12-22T11:07:14.000Z</published>
+    <updated>2020-12-22T11:39:31.126Z</updated>
     
-    <content type="html"><![CDATA[<p>第一章<br><img src="/.com//bg1.jpeg" alt="随便写"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><h2 id="在快迎来二十岁的一天，忽然想建个博客，记录生活每一天。"><a href="#在快迎来二十岁的一天，忽然想建个博客，记录生活每一天。" class="headerlink" title="在快迎来二十岁的一天，忽然想建个博客，记录生活每一天。"></a>在快迎来二十岁的一天，忽然想建个博客，记录生活每一天。</h2><h1 id="记录目前web前端掌握情况"><a href="#记录目前web前端掌握情况" class="headerlink" title="记录目前web前端掌握情况"></a>记录目前web前端掌握情况</h1><p>HTML5+CSS3  data-percent=”60”<br>Javascript网页编程   data-percent=”20”<br>移动WEB网页开发  data-percent=”10”<br>Node.js与AJAX  data-percent=”1”<br>Vue.js   data-percent=”1”<br>移动app开发   data-percent=”10”<br>React.js  data-percent=”1”</p><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;第一章&lt;br&gt;&lt;img src=&quot;/.com//bg1.jpeg&quot; alt=&quot;随便写&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;起源&quot;&gt;&lt;a href=&quot;#起源&quot; class=&quot;headerlink&quot; title=&quot;起源&quot;&gt;&lt;/a&gt;起源&lt;/h1&gt;&lt;h2 id=&quot;在快迎来二十岁的一天，忽然想建个博客，记录生活每一天。&quot;&gt;&lt;a href=&quot;#在快迎来二十岁的一天，忽然想建个博客，记录生活每一天</summary>
       
     
     
     
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
