@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-25T10:07:33.469Z</updated>
+  <updated>2020-12-27T12:35:55.699Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>东历十三</title>
+    <link href="http://example.com/2020/12/27/%E5%86%AC%E6%9C%88%E5%8D%81%E4%B8%89/"/>
+    <id>http://example.com/2020/12/27/%E5%86%AC%E6%9C%88%E5%8D%81%E4%B8%89/</id>
+    <published>2020-12-27T09:36:47.000Z</published>
+    <updated>2020-12-27T12:35:55.699Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。"><a href="#邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。" class="headerlink" title="邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。"></a>邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。</h1><hr><h1 id="记录目前web前端掌握情况"><a href="#记录目前web前端掌握情况" class="headerlink" title="记录目前web前端掌握情况"></a>记录目前web前端掌握情况</h1><p>周末两天完成了对京东移动端首页的模仿，流式布局算是暂时告一段落。接下来学习的方向，flex布局。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。&quot;&gt;&lt;a href=&quot;#邻近新的一年，心中不知是何滋味。自我评价这一年可以说是一事无成的，仍没有跨出自己的舒适圈，原地踏步。&quot; class=&quot;headerlink&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>东月十一</title>
